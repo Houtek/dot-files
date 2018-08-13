@@ -4,6 +4,7 @@ set dir=~/.tmp
 " format
 set autoindent
 set backup
+set backupdir=~/.tmp
 set nu
 set smartindent
 set showmatch
