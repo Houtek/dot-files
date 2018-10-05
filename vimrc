@@ -27,4 +27,3 @@ set modeline
 set ls=2
 " colorscheme
 colorscheme deus
-autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
